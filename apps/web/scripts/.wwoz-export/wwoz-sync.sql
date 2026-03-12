@@ -1,9 +1,9 @@
 -- WWOZ Database Export
--- Generated: 2026-03-12T06:07:48.259Z
+-- Generated: 2026-03-12T09:30:07.949Z
 -- Mode: INCREMENTAL
--- Last export: 2026-03-12 06:06:47
+-- Last export: 2026-03-12 06:07:48
 -- Days: 4
--- Tracks: 387
+-- Tracks: 393
 
 INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, updated_at)
 VALUES (
@@ -12,7 +12,7 @@ VALUES (
   '{"totalTracks":183,"successfullyFound":128,"notFound":55,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-09 06:16:24',
-  '2026-03-12 06:07:46'
+  '2026-03-12 09:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -27,7 +27,7 @@ VALUES (
   '{"totalTracks":82,"successfullyFound":57,"notFound":25,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-10 09:30:09',
-  '2026-03-12 06:07:46'
+  '2026-03-12 09:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -42,7 +42,7 @@ VALUES (
   '{"totalTracks":94,"successfullyFound":62,"notFound":32,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-12 06:06:46',
-  '2026-03-12 06:07:46'
+  '2026-03-12 09:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -54,10 +54,10 @@ INSERT INTO wwoz_days (date, playlist_url, stats_json, source_url, created_at, u
 VALUES (
   '2026-03-12',
   NULL,
-  '{"totalTracks":10,"successfullyFound":4,"notFound":6,"lowConfidence":0,"duplicates":0}',
+  '{"totalTracks":16,"successfullyFound":6,"notFound":10,"lowConfidence":0,"duplicates":0}',
   'https://wwoz.org/programs/playlists',
   '2026-03-12 06:06:46',
-  '2026-03-12 06:07:46'
+  '2026-03-12 09:30:06'
 )
 ON CONFLICT(date) DO UPDATE SET
   playlist_url = COALESCE(excluded.playlist_url, playlist_url),
@@ -6263,4 +6263,100 @@ VALUES (
   'found',
   94.4,
   '2026-03-12 06:06:46'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-12',
+  '00:35',
+  'GENA',
+  'TDG',
+  NULL,
+  '',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-12 09:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-12',
+  '00:39',
+  'Teedra Moses',
+  'Be Your Girlfriend x Luxurious',
+  NULL,
+  '',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-12 09:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-12',
+  '00:41',
+  'ILL CAMILL, Sir',
+  'Found It',
+  NULL,
+  '',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-12 09:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-12',
+  '00:49',
+  'Layfullstop',
+  'Receipts',
+  NULL,
+  'uk r&b',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  'https://open.spotify.com/track/3kZIgZzN71mvbzRY19dCXQ',
+  'found',
+  100,
+  '2026-03-12 09:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-12',
+  '00:50',
+  'Fiyah Like Ayanna',
+  'Dropping Jewels',
+  NULL,
+  '',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  NULL,
+  'not_found',
+  NULL,
+  '2026-03-12 09:30:06'
+);
+
+INSERT INTO wwoz_tracks (date, time, artist, title, album, genres, show_name, host, spotify_url, status, confidence, created_at)
+VALUES (
+  '2026-03-12',
+  '00:54',
+  'Rubii',
+  'Jealousy.',
+  NULL,
+  '',
+  'Draw Fo',
+  'Slangston Hughes & Thelonious Kryptonite',
+  'https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9',
+  'found',
+  100,
+  '2026-03-12 09:30:06'
 );

@@ -4276,7 +4276,7 @@ INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','gangster rap',1,1);
 INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','power pop',1,1);
 INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','new wave',1,1);
 INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','yacht rock',1,1);
-INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','uk r&b',1,1);
+INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','uk r&b',2,2);
 INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','electroclash',1,1);
 INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','trip hop',2,2);
 INSERT INTO wwoz_genre_weekly VALUES('2026-03-09','downtempo',2,2);

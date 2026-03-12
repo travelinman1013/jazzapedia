@@ -10888,3 +10888,9 @@ INSERT INTO wwoz_artist_first_seen VALUES('kelly moonstone','Kelly Moonstone','2
 INSERT INTO wwoz_artist_first_seen VALUES('flying lotus dawn richard','Flying Lotus, Dawn Richard','2026-03-12',1,NULL);
 INSERT INTO wwoz_artist_first_seen VALUES('$leazy ex','$leazy EX','2026-03-12',1,NULL);
 INSERT INTO wwoz_artist_first_seen VALUES('live','Liv.e','2026-03-12',1,NULL);
+INSERT INTO wwoz_artist_first_seen VALUES('gena','GENA','2026-03-12',1,NULL);
+INSERT INTO wwoz_artist_first_seen VALUES('teedra moses','Teedra Moses','2026-03-12',1,NULL);
+INSERT INTO wwoz_artist_first_seen VALUES('ill camill sir','ILL CAMILL, Sir','2026-03-12',1,NULL);
+INSERT INTO wwoz_artist_first_seen VALUES('layfullstop','Layfullstop','2026-03-12',1,NULL);
+INSERT INTO wwoz_artist_first_seen VALUES('fiyah like ayanna','Fiyah Like Ayanna','2026-03-12',1,NULL);
+INSERT INTO wwoz_artist_first_seen VALUES('rubii','Rubii','2026-03-12',1,NULL);
